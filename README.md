@@ -1,4 +1,4 @@
 # js-dev-env
-Javascript Development Environment Starterkit
+Javascript Development Environment
 
 A starterkit for developing javascript applications.
